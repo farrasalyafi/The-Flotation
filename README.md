@@ -12,3 +12,6 @@ The data came from The Flotation Plant. The data have several columns,the first 
 2. Modelling 
 3. Evaluating
 4. Tunning Model
+
+To read more detail about this project click this link below:
+https://medium.com/@farrasalyafi/prediksi-silica-pada-flotation-plant-menggunakan-multiple-linear-regression-ridge-regression-3c9ee8007435
